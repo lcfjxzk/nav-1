@@ -128,11 +128,11 @@ var xObject = JSON.parse(x); //把字符串转化为对象。与JSON.stringify�
 // console.log(xObject);
 
 var hashMap = xObject || [{
-  logo: "A",
-  url: "https://www.acfun.cn"
+  logo: "G",
+  url: "https://www.github.com"
 }, {
-  logo: "B",
-  url: "https://www.bilibili.com"
+  logo: "S",
+  url: "https://www.stackoverflow.com"
 }]; //如果xObject存在，就用xObject对象，如果xObject不存在，就用后面的[{},{}]对象。
 
 var simplifyUrl = function simplifyUrl(url) {
@@ -204,4 +204,4 @@ $(document).on("keypress", function (e) {
   }
 });
 },{}]},{},["epB2"], null)
-//# sourceMappingURL=main.eb3aa03d.js.map
+//# sourceMappingURL=main.43bfdfc3.js.map

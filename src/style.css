@@ -29,7 +29,8 @@ body {
   margin: 20px;
 }
 .globalHeader {
-  margin: 20px 2px;
+  margin: 2px;
+  margin-bottom: 20px;
 }
 @media (min-width: 500px) {
   .globalHeader {

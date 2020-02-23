@@ -29,7 +29,8 @@ body {
   margin: 20px;
 }
 .globalHeader {
-  margin: 20px 2px;
+  margin: 2px;
+  margin-bottom: 20px;
 }
 @media (min-width: 500px) {
   .globalHeader {
@@ -159,4 +160,4 @@ body {
 }
 
 
-/*# sourceMappingURL=style.a47f93fc.css.map */
+/*# sourceMappingURL=style.901e3502.css.map */
